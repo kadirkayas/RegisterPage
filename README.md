@@ -1,0 +1,1 @@
+Npm Validator ve react-password-checklist modullerini kullanarak yaptigin email ve pasaport dorulugunu kontrol eden register ekrani
